@@ -1,4 +1,4 @@
-"""Query bandwidth performance between two devices."""
+"""Connectivity test using ping from a Linux host."""
 import pytest
 import json
 from typing import Dict, List, Callable, Any, Optional
