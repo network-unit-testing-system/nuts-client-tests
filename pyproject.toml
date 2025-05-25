@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "nuts_client_tests"}]
 
 [tool.poetry.dependencies]
-python = "^3.8.1"
+python = "^3.9"
 nuts = "^3.2.0"
 
 
